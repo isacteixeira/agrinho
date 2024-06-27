@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #106d15;
+    color: #ffffff;
+    text-align: center;
+    padding: 1em 0;
+}
+nav {
+    background-color: #602424;
+    padding: 0.5em 0;
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 0 1em;
+}
+.sobre {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+}
+section {
+    margin-bottom: 20px;
+}
+footer {
+    background-color: #a46e0b;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: 100px;
+    bottom: 0;
+    width: 100%;
+}
+.vantagens{
+    font-size: large;
+}
+.tecnologias{
+    font-size: large;
+}
+.contato{
+    font-size: large;
+}
